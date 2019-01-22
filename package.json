@@ -1,0 +1,17 @@
+{
+  "name": "language-detector",
+  "version": "1.0.0",
+  "description": "simple language detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md. Hasnain",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "franc": "^4.0.0",
+    "natural": "^0.6.3"
+  }
+}
